@@ -1,0 +1,3 @@
+{ "id" : 1, "word" : "socorram-me subi no onibus em marrocos", "palindrome" : True }
+{ "id" : 2, "word" : "osso", "palindrome" : True }
+{ "id" : 3, "word" : "ovo", "palindrome" : True }
