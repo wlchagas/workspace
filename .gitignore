@@ -1,2 +1,33 @@
+
+# ignore for the enjoei_bi_case files
+
 *.csv
 enjoei_bi_case/exercise_05/__pycache__/*
+
+# ignore for the report_app files
+report_app/.bundle
+
+report_app/db/*.sqlite3
+report_app/db/*.sqlite3-journal
+
+report_app/log/*
+report_app/tmp/*
+!report_app/log/.keep
+!report_app/tmp/.keep
+
+report_app/storage/*
+
+report_app/node_modules
+report_app/yarn-error.log
+
+report_app/public/assets
+report_app/.byebug_history
+
+report_app/config/master.key
+
+
+
+
+
+
+
